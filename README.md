@@ -1,2 +1,3 @@
 # interaction_web_db
-Matrices and information of the database
+Data of ecological networks 
+
