@@ -1,0 +1,9 @@
+Reference	Genrich C, Mello MAR, Silveira FAO, Bronstein JL, Paglia AP. (in press). Duality of interaction outcomes in a plant-frugivore multilayer network. Oikos.
+Country	Brazil
+Biome	Cerrado
+Site	Mangabeiras Municipal Park, Serra do Rola Moça State Park, and Serra do Curral Municipal Park
+Coordinates	9°56’S - 43°54’W, 20°55’S - 44°58’W, and 19°57’S - 43°55’W
+	
+Type of  system	Plant-frugivore multilayer network, including interactions of seed dispersal and seed destruction
+Data collection	Small mammal sampling with live traps, fecal analysis, tetrazolium test of seed viability
+Observations	"The network in the tab ""pajek"" is formated as a multilayer edge list for opening in the program Pajek."

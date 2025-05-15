@@ -1,0 +1,44 @@
+Species	Group	Pajek Code	Pajek Label
+Cerradomys scotti	Rodents	1	CerSco
+Cerradomys subflavus	Rodents	2	CerSub
+Didelphis albiventris	Marsupials	3	DidAlb
+Didelphis aurita	Marsupials	4	DidAur
+Monodelphis domestica	Marsupials	5	MonDom
+Necromys lasiurus	Rodents	6	NecLas
+Oligoryzomys sp	Rodents	7	OliSp
+Philander frenatus	Marsupials	8	PhiFre
+Guerlinguetus ingrami	Rodents	9	GueIng
+Byrsonima sp	Plants	10	ByrSp
+Campomanesia adamantium	Plants	11	CamAda
+Cecropia cf hololeuca	Plants	12	CecHol
+Cecropia pachystachya	Plants	13	CecPac
+Cecropia cf. glaziovii	Plants	14	CecGla
+Chiococca alba	Plants	15	ChiAlb
+Coccocypselum aureum	Plants	16	CocAur
+Erythroxylum sp	Plants	17	ErytSp
+ Euphorbiaceae sp	Plants	18	EuphSp
+ Ficus sp	Plants	19	FicuSp
+Leandra aurea	Plants	20	LeaAur
+Leandra cf coriacea	Plants	21	LeaCor
+Leandra sp	Plants	22	LeanSp
+Miconia albicans	Plants	23	MicAlb
+Miconia ligustroides	Plants	24	MicLig
+Miconia pepericarpa	Plants	25	MicPep
+Miconia sp1	Plants	26	MicSp1
+Morfosp1	Plants	27	MorSp1
+Morfosp2	Plants	28	MorSp2
+Morfosp3	Plants	29	MorSp3
+Morfosp5	Plants	30	MorSp5
+Morfosp6	Plants	31	MorSp6
+Morfosp7	Plants	32	MorSp7
+Morfosp8	Plants	33	MorSp8
+Morfosp9	Plants	34	MorSp9
+ Myrtaceae sp1	Plants	35	MyrSp1
+Myrtaceae sp2	Plants	36	MyrSp2
+Psidium sp	Plants	37	PsidSp
+Rubus sp1	Plants	38	RubSp1
+Rubus sp2	Plants	39	RubSp2
+Sabicea brasiliensis	Plants	40	SabBra
+Solanum sp	Plants	41	SolaSp
+Tocoyena cf formosa	Plants	42	TocFor
+Vismia cf brasiliensis	Plants	43	VisBra
