@@ -1,3 +1,4 @@
+Sumarized information regarding the datasets in the host-parasite interaction web data.  
 # Lafferty et al. (2006)
 # General information
 The study was conducted in Carpinteria Salt Marsh Reserve, Carpinteria, Santa Barbara County, California. The purpose of the study was to investigate the effect of parasites on food-web topology. The results are reported in detail in Lafferty et al (in press) with other publications forthcoming which examine connectance, chain length, vulnerability, etc. This publication also details how taxa and links were selected for inclusion and provides additional information on the species lists.
