@@ -14,8 +14,8 @@ Fautin, D. G. & Allen, G. R. 1997 Anemonefishes and their host sea anemones. Per
 Ollerton, J., McCollin, D., Fautin, D.G. & Allen, G.R. (2007) Finding NEMO: nestedness engendered by mutualistic organisation in anemonefish and their 
 hosts. Proceedings of the Royal Society B, doi:10.1098/rspb.2006.3758.
 # Data files
-Text format: interaction matrix (no species names)
-Excel format: interaction matrix (includes species lists and distributional data)
+Text format: interaction matrix (no species names).
+Excel format: interaction matrix (includes species lists and distributional data).
 
 # Ricciardi et al. (2010) #
 # General information
